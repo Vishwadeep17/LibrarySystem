@@ -14,7 +14,7 @@ This is a simple Library Management System developed in .NET Framework.
 
 ### Prerequisites
 
-- .NET Framework (version X.X.X)
+- .NET Framework (version 4.8.1)
 - Other dependencies, if any
 
 ### Installation
@@ -38,20 +38,11 @@ If you'd like to contribute to this project, please follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them.
 4. Create a pull request.
+   
 
-## License
+## Contributors
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+We would like to thank the following contributors for their valuable contributions to this project:
+- [Vishwadeep17](https://github.com/Vishwadeep17)
+- [rishav6611](https://github.com/rishav6611)
 
-## Acknowledgments
-
-- [List any libraries, frameworks, or resources you used and would like to acknowledge]
-
-## Contact
-
-[Your Name]
-[Your Email Address]
-
-## About
-
-[Optional: Provide some background about your project and why you created it.]
